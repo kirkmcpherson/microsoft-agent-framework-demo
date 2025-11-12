@@ -112,3 +112,5 @@ cython_debug/
 # Local environment files
 .env
 .env.*
+
+docs
