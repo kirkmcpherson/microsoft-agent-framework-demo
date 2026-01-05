@@ -7,7 +7,9 @@ requires-python = ">=3.11"
 dependencies = [
     "agent-framework>=1.0.0b251016",
     "azure-ai-inference>=1.0.0b9",
+    "azure-ai-projects==2.0.0b1",
     "azure-search>=1.0.0b2",
     "azure-search-documents>=11.6.0",
     "graphviz>=0.21",
+    "openai>=1.109.1",
 ]
